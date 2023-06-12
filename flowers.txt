@@ -1,0 +1,4 @@
+red rose,10,1
+yellow rose,10,2
+white lily,20,3
+yellow lily,30,4
